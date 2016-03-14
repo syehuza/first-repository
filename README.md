@@ -24,7 +24,7 @@ Laser Induced Breakdown Spectroscopy (LIBS)is an analytical technique that uses 
 	 </p>
 
 	 <p>
-	 The University of Puerto Rico at Mayaguez is an engineering research  		university serving most of the Caribbean and Latinos from all over the 		western hemisphere. Its focus is mostly in the fields of biomedical, 		chemical, and agricultural engineering.
+	 The University of Puerto Rico at Mayaguez is an engineering research university serving most of the Caribbean and Latinos from           all over the western hemisphere. Its focus is mostly in the fields of biomedical,chemical,and agricultural engineering.
 	 </p>
 	
 	 <h2>Summer Internships</h2>
@@ -35,7 +35,7 @@ Laser Induced Breakdown Spectroscopy (LIBS)is an analytical technique that uses 
 	 </p>
 	
 	 <p>
-	 I will be working under the mentorship of Prof. Madeline Torres-Lugo on her 	research into polymers. I will be trained in the experimental design, free 		radical solution polymerization, swelling studies in various solvents, and 		protein fibrillation using fluorescence.
+	 I will be working under the mentorship of Prof. Madeline Torres-Lugo on her research into polymers. I will be trained in the 			 experimental design, free radical solution polymerization, swelling studies in various solvents, and protein fibrillation 	 using fluorescence.
 	 </p>
 
 	 <a href="http://www.reed.edu">Reed</a>
